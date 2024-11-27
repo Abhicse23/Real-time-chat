@@ -9,7 +9,7 @@ import Input from '../Input/Input';
 
 import './Chat.css';
 
-const ENDPOINT = 'https://real-time-app-j22s.onrender.com';
+const ENDPOINT = 'localhost:5000';
 
 let socket;
 
