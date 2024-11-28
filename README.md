@@ -37,7 +37,9 @@ git clone https://github.com/Abhicse23/Real-time-chat
 cd ./server
 npm install
 
-3.port=5000
+3.Set Environment Variables
+
+port=5000
 NODE_ENV=production
 CORS_ORIGIN=https://real-time-chat-ten-olive.vercel.app/
 
