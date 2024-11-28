@@ -1,5 +1,3 @@
-"Backend Developer Submission - [Abhishek Tiwari]".
-
 ## Overview
 
 This repository contains the source code for a ##[real-time chat application] that allows users to communicate efficiently. The application supports multiple clients concurrently and ensures smooth message delivery through robust backend architecture.
