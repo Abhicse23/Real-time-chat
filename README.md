@@ -37,8 +37,7 @@ git clone https://github.com/Abhicse23/Real-time-chat
 cd ./server
 npm install
 
-3.
-port=5000
+3.port=5000
 NODE_ENV=production
 CORS_ORIGIN=https://real-time-chat-ten-olive.vercel.app/
 
@@ -51,15 +50,12 @@ npm start
 
 cd ./client
 
-2.
-Install dependencies:
+2.Install dependencies:
 npm install
 
-3.
-Update the ENDPOINT in the client/src/component/Chat/Chat.js/ENDPOINT
+3.Update the ENDPOINT in the client/src/component/Chat/Chat.js/ENDPOINT
 
 const ENDPOINT = 'https://real-time-app-j22s.onrender.com';
-
 
 4.Start the client application:
 
