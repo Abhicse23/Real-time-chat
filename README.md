@@ -67,6 +67,9 @@ npm start
 5.Open your browser and visit:
 https://real-time-chat-ten-olive.vercel.app/
 
+6."Enter a name and room number, then update the same room number with another name on the other browser or system."
+
+7.Then chat whatever you want.
 
 ## Architecture
 
